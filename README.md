@@ -1,2 +1,24 @@
-# Matrix-Operations-Cpp
-C++ program that performs various matrix operations such as addition, subtraction, multiplication, scalar multiplication, transpose, determinant calculation, matrix inversion, checking for symmetry and identity, and converting to row echelon and reduced row echelon forms. It also includes eigenvalue and eigenvector
+# Matrix Operations in C++
+
+This repository contains a C++ program that demonstrates various matrix operations using classes. Below are the operations included:
+
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+- Scalar Multiplication
+- Transpose of a Matrix
+- Determinant Calculation
+- Inverse of a Matrix
+- Checking for Symmetry
+- Checking for Identity Matrix
+- Converting to Row Echelon Form
+- Converting to Reduced Row Echelon Form
+- Eigenvalue and Eigenvector Calculation
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Compile and run `matrix_operations.cpp`.
+3. Follow the on-screen instructions to perform different matrix operations.
+
+Feel free to explore and modify the code as needed!
